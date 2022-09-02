@@ -1,0 +1,22 @@
+.brand_header{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+}
+.navbar-brand{
+    align-content: center;
+    margin-bottom: 1px;
+    margin-left:3%;
+}
+.container{
+    margin-top:0.5%;
+}
+.navbar-header{
+}
+.navbar-collapse{
+    font-size: large;
+    solid-color: black;
+}
+a{
+    color:black;
+}
